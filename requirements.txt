@@ -4,6 +4,5 @@ python-dotenv==1.2.2
 requests==2.34.2
 deep-translator==1.11.4
 SpeechRecognition==3.17.0
-PyAudio==0.2.14
 pyttsx3==2.99
 beautifulsoup4==4.15.0
